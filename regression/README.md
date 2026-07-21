@@ -29,7 +29,7 @@ The program calculates:
 ```
 regression/
 │
-├── LinearRegression.py
+├── linear_regression.py
 ├── README.md
 └── regression_plot.png
 ```
@@ -53,7 +53,7 @@ cd numerical-methods/regression
 Run the program:
 
 ```bash
-python3 LinearRegression.py
+python3 linear_regression.py
 ```
 
 ---
@@ -94,4 +94,3 @@ R²: 0.8164
 **Claudio Yévenes Rojas**
 
 Engineering Student – Universidad Mayor
->>>>>>> 7ff1c15 (Initial commit: Add linear regression implementation from scratch)

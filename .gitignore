@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+.DS_Store
+>>>>>>> 7ff1c15 (Initial commit: Add linear regression implementation from scratch)

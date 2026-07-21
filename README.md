@@ -18,15 +18,15 @@ Thid repository contains numerical methods implemented during my **Numerical Met
 ## Repository Structure
 '''
 numerical-methods
-|
-|--- regression
-|
-|--- interpolation
-|
-|--- integration
-|
-|--- differencial-equations
-'''
+
+regression,
+
+iterpolation,
+
+integration,
+
+ differencial-equations.
+
 
 ## Author
 

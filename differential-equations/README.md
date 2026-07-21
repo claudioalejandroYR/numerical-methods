@@ -5,4 +5,4 @@ This folder contains numerical methods for solving ordinary differential equiati
 Algorithms:
 - Euler Method
 - Runge-Kutta Method
-- 
+  

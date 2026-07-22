@@ -1,5 +1,4 @@
 
-=======
 # Linear Regression
 
 Implementation of the Linear Regression algorithm from scratch using Python.
